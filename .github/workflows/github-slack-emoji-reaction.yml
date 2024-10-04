@@ -27,7 +27,7 @@ jobs:
             EMOJI_CHANGES_REQUESTED: x
             EMOJI_COMMENTED: speech_balloon
             EMOJI_CLOSED: no_entry
-            EMOJI_MERGED: large_purple_square
+            EMOJI_MERGED: merged
             EMOJI_REVIEW_REQUESTED: arrows_counterclockwise
             SLACK_MESSAGES_LIMIT: 100
             SLACK_REPLIES_LIMIT: 100
